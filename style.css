@@ -1,0 +1,52 @@
+body {
+    background: linear-gradient(rgba(0, 0, 50, 0.5), rgba(0, 0, 50, 0.5)),url(/img/road.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.login-box{
+    max-width: 1200px;
+    float: none;
+    margin: 200px auto 200px 437px;
+}
+.btn{
+    margin-top: 10px;
+    
+}
+
+.login{
+    background: rgba(211, 211, 211, 0.5);
+    padding: 30px;
+    
+}
+/* .login-right{
+    background: rgba(211, 211, 211, 0.5);
+    padding: 30px;
+} */
+
+
+.form-control{
+    
+    background-color: transparent !important;
+}
+
+a{
+    color: blue !important;
+    margin-top: -200px;
+    font-size: large;
+    text-decoration: none;
+    
+    
+}
+h1{
+    color: #fff !important;
+    margin-top: 200px;
+    text-align: center;
+    text-transform: uppercase;
+    
+}
+
+.bold {
+    font-weight: bold;
+}
